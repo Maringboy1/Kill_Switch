@@ -2,7 +2,7 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
 ║       KILLSWITCH PRO — Enterprise Process Manager            ║
-║       Kali Linux Edition  |  Premium Build                   ║
+║       Kali Linux Edition  |  Komo_Moko_Mike                  ║
 ╚══════════════════════════════════════════════════════════════╝
 """
 
